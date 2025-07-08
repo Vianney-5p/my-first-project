@@ -10,3 +10,7 @@ h2 {
 p {
     text:bold;
 }
+
+.text-center {
+    text-align: center;
+}
